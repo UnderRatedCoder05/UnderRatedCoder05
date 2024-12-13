@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnderRatedCoder05.
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JAVA.
-- 📫 How to reach me, instagram id-@leftwinger05 .
+- 🌱 I’m currently learning JAVA, Python.
+- 📫 How to reach me, Instagram id-@leftwinger05 .
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a footballer too.
 <!---
